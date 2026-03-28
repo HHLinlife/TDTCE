@@ -1,4 +1,4 @@
-## TDTCE (<u>T</u>raffic <u>D</u>iffusion models with <u>T</u>ransformers against NIDS in **<u>C</u>**onstrained <u>E</u>nvironments)
+## TDTCE (<u>T</u>raffic <u>D</u>iffusion models with <u>T</u>ransformers against NIDS in <u>C</u>onstrained <u>E</u>nvironments)
 
 ## <sub>Intro</sub>
 
